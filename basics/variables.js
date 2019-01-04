@@ -1,3 +1,4 @@
+//1. You can not define a variable more than once
 // example of invalid js
 // let petName = 'Hal'
 // let petName = 'Fred'
